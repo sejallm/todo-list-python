@@ -21,17 +21,8 @@ It helps users manage daily tasks by allowing them to add, view, and delete task
 ---
 ## Project Structure
 
-todo.py       # Main program
-tasks.txt     # Stores tasks
----
-## Example
-
---- TO-DO LIST ---
-
-1. View Tasks
-2. Add Task
-3. Delete Task
-4. Exit
+app.py       # Main program
+tasks.json   # Stores tasks
 ---
 ## Author
 Sejal Marathe
